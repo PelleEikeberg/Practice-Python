@@ -1,4 +1,4 @@
-from _2OddOrEven import Number
+from OddOrEven import Number
 
 def test_numbergetsaccsepted():
     number = float(1)

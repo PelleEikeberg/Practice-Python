@@ -1,0 +1,1 @@
+print([i for i in list(input("do you have a list of ints? ´[1,2,3]´ and number to check")) if i != "[" and i != "]" and i != "," and float(i) < 5])

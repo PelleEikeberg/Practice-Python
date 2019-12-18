@@ -12,3 +12,5 @@ a list of programs that solve https://www.practicepython.org
 ### 5: a program which returns the common items in the two lists.
 
 ## 6: a program that stores a string, and returns if the string is a palindrome or not.
+
+### 7: a program which demonstrates in a couple of lines list comprehension

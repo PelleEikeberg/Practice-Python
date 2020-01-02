@@ -14,3 +14,7 @@ a list of programs that solve https://www.practicepython.org
 ## 6: a program that stores a string, and returns if the string is a palindrome or not.
 
 ### 7: a program which demonstrates in a couple of lines list comprehension
+
+## 8: a program that plays Rock Paper Sissor. the user has to input both hands
+
+### 9: a program to guess a number between 1-9, the user will be able to guess untill he guesses correct or gives up.
